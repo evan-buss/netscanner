@@ -1,6 +1,7 @@
 
 # start persist
 *.pprof
+netscanner
 # end persist
 
 # Created by https://www.gitignore.io/api/go,visualstudiocode
