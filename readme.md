@@ -2,6 +2,10 @@
 
 A simple CLI to scan computers on a network. Scan all computers for a specific port or scan a single computer on all ports.
 
+## Installation
+
+`go get github.com/evan-buss/netscanner`
+
 ## Usage
 
 ```
